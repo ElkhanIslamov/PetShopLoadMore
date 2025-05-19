@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pb304PetShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pb304PetShop.2js4hm8qdi.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\background-img.png",
+      "PackagePath": "staticwebassets\\images\\background-img.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\images\\banner-img.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\banner-img2.png",
+      "PackagePath": "staticwebassets\\images\\banner-img2.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\banner-img3.png",
+      "PackagePath": "staticwebassets\\images\\banner-img3.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\banner-img4.png",
+      "PackagePath": "staticwebassets\\images\\banner-img4.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog-large.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-large.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog-lg1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog-lg2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog-lg3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg3.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog-lg4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg4.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta2.jpg",
+      "PackagePath": "staticwebassets\\images\\insta2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta3.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta4.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta5.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\insta6.jpg",
+      "PackagePath": "staticwebassets\\images\\insta6.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item1.jpg",
+      "PackagePath": "staticwebassets\\images\\item1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item10.jpg",
+      "PackagePath": "staticwebassets\\images\\item10.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item11.jpg",
+      "PackagePath": "staticwebassets\\images\\item11.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item12.jpg",
+      "PackagePath": "staticwebassets\\images\\item12.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item13.jpg",
+      "PackagePath": "staticwebassets\\images\\item13.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item14.jpg",
+      "PackagePath": "staticwebassets\\images\\item14.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item15.jpg",
+      "PackagePath": "staticwebassets\\images\\item15.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item16.jpg",
+      "PackagePath": "staticwebassets\\images\\item16.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item2.jpg",
+      "PackagePath": "staticwebassets\\images\\item2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item3.jpg",
+      "PackagePath": "staticwebassets\\images\\item3.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item4.jpg",
+      "PackagePath": "staticwebassets\\images\\item4.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item5.jpg",
+      "PackagePath": "staticwebassets\\images\\item5.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item6.jpg",
+      "PackagePath": "staticwebassets\\images\\item6.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item7.jpg",
+      "PackagePath": "staticwebassets\\images\\item7.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item8.jpg",
+      "PackagePath": "staticwebassets\\images\\item8.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\item9.jpg",
+      "PackagePath": "staticwebassets\\images\\item9.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\post-thumb-2.html",
+      "PackagePath": "staticwebassets\\images\\post-thumb-2.html"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\iconify-icon.min.js",
+      "PackagePath": "staticwebassets\\js\\iconify-icon.min.js"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Pb304PetShop\\Pb304PetShop\\wwwroot\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pb304PetShop.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pb304PetShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pb304PetShop.props",
+      "PackagePath": "build\\Pb304PetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pb304PetShop.props",
+      "PackagePath": "buildMultiTargeting\\Pb304PetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pb304PetShop.props",
+      "PackagePath": "buildTransitive\\Pb304PetShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
