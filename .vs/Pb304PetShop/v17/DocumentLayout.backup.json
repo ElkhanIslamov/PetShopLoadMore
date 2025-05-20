@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\views\\shop\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\views\\shop\\_productpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pb304petshop\\pb304petshop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D588293-C09F-46C5-8C15-544444BCB977}|Pb304PetShop\\Pb304PetShop.csproj|solutionrelative:pb304petshop\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +38,80 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\appsettings.json",
-              "RelativeDocumentMoniker": "Pb304PetShop\\appsettings.json",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\appsettings.json",
-              "RelativeToolTip": "Pb304PetShop\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-19T11:47:41.906Z",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Pb304PetShop\\Models\\LoginViewModel.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Pb304PetShop\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:22:37.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pb304PetShop\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Pb304PetShop\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pb304PetShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pb304PetShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwFAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T11:01:01.394Z",
+              "WhenOpened": "2025-05-20T08:15:23.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ProductPartialView.cshtml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Shop\\_ProductPartialView.cshtml",
-              "RelativeDocumentMoniker": "Pb304PetShop\\Views\\Shop\\_ProductPartialView.cshtml",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Views\\Shop\\_ProductPartialView.cshtml",
-              "RelativeToolTip": "Pb304PetShop\\Views\\Shop\\_ProductPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T10:40:24.491Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Pb304PetShop\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Pb304PetShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwEgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:11:44.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Pb304PetShop\\Controllers\\ShopController.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Pb304PetShop\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAABAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "Pb304PetShop\\Program.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Program.cs",
+              "RelativeToolTip": "Pb304PetShop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:01:49.768Z",
+              "WhenOpened": "2025-05-20T08:00:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Pb304PetShop\\Models\\AppUser.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\Models\\AppUser.cs",
+              "RelativeToolTip": "Pb304PetShop\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:56:52.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pb304PetShop\\DataContext\\AppDbContext.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pb304PetShop\\Pb304PetShop\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "Pb304PetShop\\DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:47:51.831Z",
               "EditorCaption": ""
             }
           ]

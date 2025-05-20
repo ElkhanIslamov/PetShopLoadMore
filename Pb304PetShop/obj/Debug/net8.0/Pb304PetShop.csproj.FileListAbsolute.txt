@@ -262,3 +262,8 @@ E:\Рабочий стол\Pb304PetShop\Pb304PetShop\obj\Debug\net8.0\refint\Pb3
 E:\Рабочий стол\Pb304PetShop\Pb304PetShop\obj\Debug\net8.0\Pb304PetShop.pdb
 E:\Рабочий стол\Pb304PetShop\Pb304PetShop\obj\Debug\net8.0\Pb304PetShop.genruntimeconfig.cache
 E:\Рабочий стол\Pb304PetShop\Pb304PetShop\obj\Debug\net8.0\ref\Pb304PetShop.dll
+E:\Рабочий стол\Pb304PetShop\Pb304PetShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Рабочий стол\Pb304PetShop\Pb304PetShop\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Рабочий стол\Pb304PetShop\Pb304PetShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Рабочий стол\Pb304PetShop\Pb304PetShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Рабочий стол\Pb304PetShop\Pb304PetShop\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
