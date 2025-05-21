@@ -68,13 +68,31 @@ namespace Pb304PetShop.Controllers
                 return View();
             }
             var result = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, loginViewModel.RememberMe, false);
-            if (!result.Succeeded)
+            if(!result.IsLockedOut)
             {
-                ModelState.AddModelError("", "Username or password is incorrect");
+                ModelState.AddModelError("", "User is locked out");
                 return View();
             }
 
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError("", "You are bannaed");
+                
+            }
+            if (loginViewModel.ReturnUrl != null)
+            {
+                return LocalRedirect(loginViewModel.ReturnUrl);
+            }
             return RedirectToAction("Index", "Home");
+        }
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home");
+        }
+        public IActionResult AccessDenied(string returnUrl)
+        {
+            return View();
         }
     }
 }
